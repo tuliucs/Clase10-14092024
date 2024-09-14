@@ -11,3 +11,7 @@ Kris Garcia Carnet 23250 agrego datos
 #Gerson Morales 19395
 
 Gerson Humberto Morales Cosiguá 19395
+
+#Cristian Alberto Gómez López 
+23616
+Bla bla bla bla bla bla
